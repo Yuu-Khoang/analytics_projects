@@ -1,7 +1,9 @@
-# analytics_projects
-Projects related to data analysis for resume portfolio
+# Учебные проекты по аналитике
+## Курс от Яндекс.Практикума "Аналитик данных"
 
 1. **research_games-and-platforms**<br>
-is a statistical data analysis for the gaming industry based on sales data from the game store. Includes analysis of sales since 1980, forecast of potentially profitable platforms for 2007, portrait of players by country and testing of 2 hypotheses.
+Проект представляет собой статистический анализ данных для игровой индустрии на основе данных о продажах из игрового магазина. Включает в себя анализ продаж с 1980 года, прогноз потенциально прибыльных площадок на 2007 год, портрет игроков по странам и проверку 2-х гипотез.
 2. **research_apartments-stpetersburg**<br>
-is a exploratory analysis of real estate data in St. Petersburg and the Leningrad region. It includes a lot of work to replace the missing data, as well as an assessment of the impact of the main and additional parameters on the cost of the apartment.
+Проект представляет собой предварительный анализ данных о недвижимости Санкт-Петербурга и Ленинградской области, в составе которого рассмотрена оценка влияния основных и дополнительных параметров на стоимость квартиры.
+2. **research_ab-test-check**<br>
+Проект, направленный на оценку корректности проведения А/В теста.
